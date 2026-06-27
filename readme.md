@@ -11,17 +11,20 @@
 
 ### 👨‍💻 About Me
 
-🚀 DevOps Engineer focused on **cloud infrastructure**, **automation**, and **CI/CD**
-☁️ Building and breaking things on **AWS**, then automating the fix with **Terraform**
-🐳 Comfortable with containers, pipelines, and infrastructure-as-code
+> breaking prod since day one, fixing it faster than you can say "rollback" 💀
+
+⚡ not a 9-5 person fr, i just spin up cloud infra and vibe
+☁️ AWS is my toxic ex, terraform is my therapist
+🐳 if it's not containerized i'm simply not interested
+🔧 automate everything > do it twice, couldn't be me
 
 |     |                       |                                                    |
 | --- | --------------------- | -------------------------------------------------- |
-| 🔭 | **Currently working on** | [My-Portfolio](https://github.com/Chiranthpoojari/My-Portfolio) |
-| 🌱 | **Currently learning**   | Kubernetes & Advanced Terraform                    |
-| ⚙️  | **Tech stack**           | AWS, Terraform, Docker, CI/CD, TypeScript          |
-| 📍 | **Based in**             | Bengaluru, India                                   |
-| 💼 | **LinkedIn**             | [chiranth-bj](https://www.linkedin.com/in/chiranth-bj/) |
+| 🔭 | **rn i'm cooking**       | [My-Portfolio](https://github.com/Chiranthpoojari/My-Portfolio) |
+| 🌱 | **leveling up in**       | Kubernetes & Terraform (it's giving senior engineer) |
+| ⚙️  | **daily driver**         | AWS, Terraform, Docker, CI/CD, TypeScript          |
+| 📍 | **based in**             | Bengaluru, no cap                                  |
+| 💼 | **link in bio**          | [chiranth-bj](https://www.linkedin.com/in/chiranth-bj/) |
 
 ---
 
