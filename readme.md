@@ -4,6 +4,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=500&lines=spinning+up+infra+that+doesn%27t+break;automating+the+boring+stuff;terraform+apply+%E2%86%92+coffee+%E2%86%92+repeat" />
 
+
+![GitHub followers](https://img.shields.io/github/followers/Chiranthpoojari?style=for-the-badge&color=0061ff&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=Chiranthpoojari&style=for-the-badge&color=0061ff&labelColor=000000&label=PROFILE+VIEWS)
+
+
+
 </div>
 
 <br>
