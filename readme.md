@@ -79,12 +79,6 @@
 
 ---
 
-### ☕ Support:
-
-<a href="https://www.buymeacoffee.com/Chiranthpoojari" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px;" />
-</a>
-
 ---
 
 <div align="center">
