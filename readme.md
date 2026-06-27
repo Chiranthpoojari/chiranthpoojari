@@ -73,10 +73,3 @@ status: shipping
 <img src="https://github-readme-stats.vercel.app/api?username=Chiranthpoojari&show_icons=true&hide_border=true&theme=transparent&title_color=7c3aed&icon_color=06b6d4&text_color=8b8b8b&hide_title=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiranthpoojari&hide_border=true&background=00000000&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=8b8b8b&dates=8b8b8b&currStreakNum=ffffff&sideNums=ffffff" height="165"/>
 
-</div>
-
-<div align="center">
-
-<sub>built with markdown, fueled by coffee ☕ — <a href="https://www.buymeacoffee.com/Chiranthpoojari">buy me one</a></sub>
-
-</div>
