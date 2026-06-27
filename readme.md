@@ -33,7 +33,7 @@ aws · terraform · docker · k8s · ci/cd
 **reach me**
 [linkedin →](https://www.linkedin.com/in/chiranth-bj/)
 
-**My Resume**
+**my resume**
 [`My-resume`](resume/Resume.pdf)
 
 </td>
