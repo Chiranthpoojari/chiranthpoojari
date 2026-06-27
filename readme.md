@@ -22,7 +22,7 @@ building cloud infra that scales, breaks less, costs less.
 
 **building rn**
 [`My-Portfolio`](https://github.com/Chiranthpoojari/My-Portfolio) — devops portfolio, react + tailwind
-[`My-resume`]("./resume/Chiranth%20B%20J%20Resume1.pdf")
+
 
 **learning**
 kubernetes, advanced terraform modules
@@ -32,6 +32,8 @@ aws · terraform · docker · k8s · ci/cd
 
 **reach me**
 [linkedin →](https://www.linkedin.com/in/chiranth-bj/)
+
+[`My-resume`](resume/Resume.pdf)
 
 </td>
 <td valign="top" width="50%">
